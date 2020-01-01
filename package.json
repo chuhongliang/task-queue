@@ -10,6 +10,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": ["queue", "task", "task-que", "task-queue"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/chuhongliang/task-queue.git"
