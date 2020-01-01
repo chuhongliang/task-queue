@@ -1,4 +1,4 @@
-const taskQueue = require('../lib/task-queue')(1000);
+const taskQueue = require('../lib/task-que')(1000);
 
 taskQueue.push(
 	function(task){

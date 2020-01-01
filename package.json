@@ -1,6 +1,6 @@
 {
-  "name": "task-queue",
-  "version": "1.0.0",
+  "name": "task-que",
+  "version": "1.0.1",
   "description": "任务队列",
   "main": "index.js",
   "directories": {
