@@ -1,7 +1,7 @@
 {
   "name": "task-que",
-  "version": "1.0.1",
-  "description": "任务队列",
+  "version": "1.0.3",
+  "description": "一个简单的任务队列",
   "main": "index.js",
   "directories": {
     "lib": "lib",
